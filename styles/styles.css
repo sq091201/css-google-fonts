@@ -16,6 +16,7 @@ header {
   width: 50%;
   text-align: center;
   color: #000;
+  display: none;
 }
 
 p {
@@ -26,7 +27,7 @@ p {
 
 a {
   margin-top: 0;
-  margin-right:10px;
+  margin-right: 10px;
   margin-bottom: 10px;
   background-color: rgb(0, 0, 0, 0.6);
   padding: 10px;
@@ -41,15 +42,15 @@ nav {
   padding: 20px;
   position: fixed;
   top: 0;
-  background-color:  rgb(0, 0, 0, 0.3);
+  background-color: rgb(0, 0, 0, 0.3);
   z-index: 10;
 }
 
-span .font-pair1a{
+span .font-pair1a {
   font-family: 'Roboto', sans-serif;
 }
 
-span .font-pair1b{
+span .font-pair1b {
   font-family: 'Cabin', sans-serif;
 }
 
@@ -57,7 +58,7 @@ span .font-pair1b{
 /* add your css below this line */
 
 .hero-background {
-  background: url("https://images.pexels.com/photos/234133/pexels-photo-234133.jpeg") no-repeat fixed center;
+  background: url("https://images.pexels.com/photos/7333600/pexels-photo-7333600.jpeg") no-repeat fixed center;
   background-size: cover;
 }
 
@@ -68,15 +69,15 @@ span .font-pair1b{
 }
 
 .first-section-background {
-  background: url("https://images.pexels.com/photos/6249454/pexels-photo-6249454.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260") no-repeat fixed bottom;
+  background: url("https://images.pexels.com/photos/3678969/pexels-photo-3678969.jpeg") no-repeat fixed bottom;
 }
 
 .second-section-background {
-  background: url("https://reliablepsd.com/wp-content/themes/reliable/images/blog/bg07.jpg") no-repeat fixed bottom;
+  background: url("https://images.pexels.com/photos/3070211/pexels-photo-3070211.jpeg") no-repeat fixed bottom;
 }
 
 .third-section-background {
-  background: url("https://images.pexels.com/photos/1803859/pexels-photo-1803859.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260") no-repeat fixed bottom;
+  background: url("https://images.pexels.com/photos/3811010/pexels-photo-3811010.jpeg") no-repeat fixed bottom;
 }
 
 .with-background {
@@ -130,20 +131,20 @@ article {
   padding: 50px;
 }
 
-.first-article-container, .second-article-container, .third-article-container  {
+.first-article-container, .second-article-container, .third-article-container {
   position: relative;
 }
 
 .first-article-container {
-  background-color: #e2b400;
+  background-color: #e8ac9b;
 }
 
 .second-article-container {
-  background-color: #a66746;
+  background-color: #a16443;
 }
 
 .third-article-container {
-  background-color: #a69991;
+  background-color: #f0c048;
 }
 
 footer {
@@ -151,5 +152,3 @@ footer {
   padding: 20px 0;
   background-color: rgb(0, 0, 0, 0.3);
 }
-
- 
