@@ -8,6 +8,7 @@ html {
 
 body {
   font-family: 'Raleway', sans-serif;
+  font-weight: 600;
   margin: 0;
   padding: 0;
 }
@@ -24,13 +25,14 @@ header {
 
 p {
   font-family: 'Karla', sans-serif;;
-  font-weight: 200;
+  font-weight: 300;
   font-size: 15px;
   line-height: 25px;
 }
 
 a {
   font-family: 'Lato', sans-serif;
+  font-weight: 300;
   margin-top: 0;
   margin-right:10px;
   margin-bottom: 10px;
