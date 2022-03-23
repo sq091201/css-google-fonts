@@ -3,7 +3,7 @@ html {
 }
 
 .hero-content {
-  display: none;
+ display: none; 
 }
 
 body {
@@ -23,8 +23,7 @@ header {
 }
 
 p {
-  font-family: 'Karla', sans-serif;
-  ;
+  font-family: 'Karla', sans-serif;;
   font-weight: 200;
   font-size: 15px;
   line-height: 25px;
@@ -33,7 +32,7 @@ p {
 a {
   font-family: 'Lato', sans-serif;
   margin-top: 0;
-  margin-right: 10px;
+  margin-right:10px;
   margin-bottom: 10px;
   background-color: rgb(77, 15, 2, 0.6);
   padding: 10px;
@@ -48,15 +47,15 @@ nav {
   padding: 20px;
   position: fixed;
   top: 0;
-  background-color: rgb(161, 68, 59, 0.3);
+  background-color:  rgb(161, 68, 59, 0.3);
   z-index: 10;
 }
 
-span .font-pair1a {
+span .font-pair1a{
   font-family: 'Lato', sans-serif;
 }
 
-span .font-pair1b {
+span .font-pair1b{
   font-family: 'Karla', sans-serif;
 }
 
@@ -137,7 +136,7 @@ article {
   padding: 50px;
 }
 
-.first-article-container, .second-article-container, .third-article-container {
+.first-article-container, .second-article-container, .third-article-container  {
   position: relative;
 }
 
